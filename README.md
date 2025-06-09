@@ -24,13 +24,16 @@
 
 ## Level
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/7e13a30b-57dc-4d37-8883-a669269abd50" width="350" />
-</p>
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/adecadc8-f40a-405f-b3b2-2c798309476e" width="350" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7e13a30b-57dc-4d37-8883-a669269abd50" width="350" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/adecadc8-f40a-405f-b3b2-2c798309476e" width="350" />
+    </td>
+  </tr>
+</table>
 
 
 
