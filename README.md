@@ -6,10 +6,10 @@
 
 ![image](https://github.com/user-attachments/assets/42540653-0901-4924-9caf-746fa7f3268e)
 
-# Gameplay
+## Gameplay
 ![image](https://github.com/user-attachments/assets/08458b57-0f8b-4576-b55b-21cb42548f50)
 
-# Taxonomie
+## Taxonomie
 ![image](https://github.com/user-attachments/assets/7ad69ed8-55ad-4599-ae55-eb5462dc437d)
 
 # Level
