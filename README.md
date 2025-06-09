@@ -1,12 +1,12 @@
 # ElevEntures-Mayhem
 
-![image](https://github.com/user-attachments/assets/b4941a1e-f343-4e8d-a1b0-025d3fa9df5b)
-
-“ElevEntures Mayhem” ist ein interaktives VR-Spiel, in dem ein geheimnisvoller Aufzug als Portal in verschiedene Welten dient. Jede Welt bietet einzigartige Herausforderungen und Minispiele, die von der Erzählerstimme aus dem Aufzugslautsprecher begleitet werden. In jedem Level müssen Rätsel gelöst, Aufgaben gemeistert und Artefakte gesammelt werden, die in späteren Welten von Bedeutung sind. Mit fortschreitendem Spiel erhöht sich die Interaktivität und vertieft die fesselnde Multiversums-Handlung.
-
 <p align="left">
   <img src="https://github.com/user-attachments/assets/b4941a1e-f343-4e8d-a1b0-025d3fa9df5b" width="400" />
 </p>
+
+
+“ElevEntures Mayhem” ist ein interaktives VR-Spiel, in dem ein geheimnisvoller Aufzug als Portal in verschiedene Welten dient. Jede Welt bietet einzigartige Herausforderungen und Minispiele, die von der Erzählerstimme aus dem Aufzugslautsprecher begleitet werden. In jedem Level müssen Rätsel gelöst, Aufgaben gemeistert und Artefakte gesammelt werden, die in späteren Welten von Bedeutung sind. Mit fortschreitendem Spiel erhöht sich die Interaktivität und vertieft die fesselnde Multiversums-Handlung.
+
 
 
 ## Gameplay
