@@ -35,6 +35,13 @@
   </tr>
 </table>
 
+## Promotionsvideo
+
+<video width="600" controls>
+  <source src="https://youtube.com/shorts/gOZpi7_n9A8" type="video/mp4">
+  Dein Browser unterstützt kein HTML5-Video.
+</video>
+
 ## Dokumentation
 
 📄 [ElevEntures-Mayhem Dokumentation lesen](./Dokumentation.pdf)
