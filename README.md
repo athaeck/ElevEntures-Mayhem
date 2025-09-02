@@ -37,7 +37,7 @@
 
 ## Promotionsvideo
 
-[![Promotionsvideo anschauen](./Thumbnail.PNG)](https://youtube.com/shorts/gOZpi7_n9A8)
+[![Promotionsvideo anschauen](Thumbnail.PNG)](https://youtube.com/shorts/gOZpi7_n9A8)
 
 ## Dokumentation
 
