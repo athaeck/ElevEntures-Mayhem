@@ -37,7 +37,11 @@
 
 ## Promotionsvideo
 
-[![Promotionsvideo anschauen](./Thumbnail.png)](https://youtube.com/shorts/gOZpi7_n9A8)
+<!-- [![Promotionsvideo anschauen](./Thumbnail.png)](https://youtube.com/shorts/gOZpi7_n9A8) -->
+
+<a href="https://youtube.com/shorts/gOZpi7_n9A8" target="_blank" rel="noopener noreferrer">
+  <img src="./Thumbnail.png" alt="Promotionsvideo anschauen" />
+</a>
 
 ## Dokumentation
 
